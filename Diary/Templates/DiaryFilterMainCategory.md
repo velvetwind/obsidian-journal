@@ -1,5 +1,7 @@
 ---
-cssclass: diary, diary_plus
+cssclasses: 
+- diary 
+- diary_plus
 ---
 <%* const category = await tp.system.suggester(["Запись дня", "Итоги месяца", "Итоги года", "Библиотека", "Ссылка"], ["Запись дня", "Итоги месяца", "Итоги года", "Библиотека", "Ссылка"]) %>
 <%"<span"%> class="diary__year diary__yearFirst"><%category%><%"</span>"%> 
