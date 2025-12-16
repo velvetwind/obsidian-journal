@@ -1,5 +1,7 @@
 ---
-cssclass: diary, diary_plus
+cssclasses: 
+- diary 
+- diary_plus
 ---
 
 <%* const tag = tp.system.prompt("С каким тегом показать записи?") _%>
