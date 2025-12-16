@@ -1,5 +1,7 @@
 ---
-cssclass: diary, diary_plus
+cssclasses: 
+- diary 
+- diary_plus
 ---
 
 <small class="diary__year diary__yearFirst">Настройки</small>
