@@ -1,5 +1,7 @@
 ---
-cssclass: diary, diary_plus
+cssclasses: 
+- diary 
+- diary_plus
 ---
 
 <span class="diary__year diary__yearFirst">Избранные записи</span>
